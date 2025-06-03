@@ -16,7 +16,7 @@ Desenvolver um sistema em **Java** com base nos conceitos de **Programação Ori
 
 - @Pedrao-05
 - @JonasOGnomo
-- Nome 3 (@usuario3)
+- @oliDaniel42
 - Nome 4 (@usuario4)
 - Nome 5 (@usuario5)
 
