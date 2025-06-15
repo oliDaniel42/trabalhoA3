@@ -14,11 +14,12 @@ Desenvolver um sistema em **Java** com base nos conceitos de **Programação Ori
 
 ## 👥 Equipe
 
-- @Pedrao-05
-- @JonasOGnomo
-- @oliDaniel42
-- Nome 4 (@usuario4)
-- Nome 5 (@usuario5)
+- Pedro Aguiar @Pedrao-05
+- João Pedro Nobre @JonasOGnomo
+- Daniel Oliveira @oliDaniel42
+- Enzo @Chupetovsky
+- Felipe
+- Sergio
 
 ## 🧱 Estrutura do Projeto
 
@@ -37,20 +38,3 @@ O sistema é voltado para o gerenciamento de um pequeno mercado, permitindo o ca
 - Excluir produto
 - Listar todos os produtos
 - (Funcionalidades similares para outras entidades)
-
-## 📂 Organização do Código
-
-```plaintext
-src/
-├── Main.java
-├── Menu.java
-├── produto/
-│   └── Produto.java
-├── cliente/
-│   └── Cliente.java
-├── funcionario/
-│   └── Funcionario.java
-├── venda/
-│   └── Venda.java
-├── pessoa/
-│   └── Pessoa.java (superclasse)
